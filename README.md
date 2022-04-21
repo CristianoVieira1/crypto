@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="/assets/images/banner.png" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="/assets/images/splash/ios/launch_screen.png" width="400"></a></p>
 
 <p align="center">An app for crypto appointment and scheduling.</p>
 
